@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Frontend Mentor - Fylo data storage component
 
 ![Design preview for the Fylo data storage component coding challenge](./design/desktop-preview.jpg)
@@ -68,3 +69,6 @@ Feedback is always welcome, so if you have any to give on this challenge please 
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+=======
+# challenge3
+>>>>>>> 9597f0266c7f4f3d540713a539f94d3ca9fa6cc3
